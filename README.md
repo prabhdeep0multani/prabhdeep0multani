@@ -1,8 +1,7 @@
 <div align="center">
 
-<br/>
-
-## Full Stack Developer · Fintech · SaaS 
+<h1>Prabhdeep Singh Multani</h1>
+<h3>Full Stack Developer · Fintech · SaaS · APIs that work in production</h3>
 
 <br/>
 
@@ -48,7 +47,7 @@ const stack = {
 
 ## Certifications
 
-`AWS Cloud Practitioner Certification` &nbsp;·&nbsp; `Google Professional Cloud Developer Certification` &nbsp;·&nbsp; `Twilio Flex Certified` &nbsp;·&nbsp; `HubSpot CMS & CRM Certified`
+`AWS Cloud Practitioner` &nbsp;·&nbsp; `Twilio Flex Certified` &nbsp;·&nbsp; `HubSpot CMS & CRM Certified`
 
 ---
 

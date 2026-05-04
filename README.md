@@ -11,7 +11,7 @@
      ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝
 ```
 
-### Full Stack Developer · Fintech · SaaS 
+## Full Stack Developer · Fintech · SaaS 
 
 <br/>
 

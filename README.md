@@ -11,7 +11,7 @@
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚══════╝╚══════╝╚═╝
 ```
 
-### Full Stack Developer · Fintech · SaaS · APIs that actually work in production
+### Full Stack Developer · Fintech · SaaS 
 
 <br/>
 
